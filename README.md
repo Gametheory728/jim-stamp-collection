@@ -1,6 +1,6 @@
 Jim's Stamp Collection App
 ---
 
-#About 
+#About Jim
 Stuff about Jim's Stamps here...
 '
