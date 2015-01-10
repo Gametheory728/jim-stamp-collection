@@ -2,5 +2,5 @@ Jim's Stamp Collection App
 ---
 
 #About Jim
-Stuff about Jim's Stamps here...
-'
+
+New York Times Raves this is the best stamp collection of the ages!
